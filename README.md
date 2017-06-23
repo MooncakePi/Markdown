@@ -1,6 +1,7 @@
 # Markdown
-Learn to use markdown
+Learn to use markdown：
 
+*Title*
 Two ways for title: 
 ==============
 
