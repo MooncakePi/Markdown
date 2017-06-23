@@ -119,7 +119,7 @@ _行内式_：          
 
 ### 1.Markdown语法下每行每段都是顶格开始的（？）不一定，可以空两格，但是多了就变成代码块状态了
 
-### 2.请确保所有符号都是在英文输入法的状态下输入的。
+### 2.请确保所有符号都是在英文输入法的状态下输入的，即使是感叹号！!。
 
 ### 3.的回车无法起到换段的作用，可以在打算空行的地方后面加两个以上空格加回车输入新的内容，单回车分段后的内容完成后仍然在同一行。
 
@@ -132,4 +132,4 @@ _行内式_：          
 # 写在最后
 ## 花了一晚上的时间学习了Markdown 的基本格式，感谢[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")，通过参照上面的讲解以及edit file一点点摸头了并且用这种方式写了一个Markdown基本语法，还有很多不足，继续改进吧，最后还是要感谢younghz的分享。   
 ## 以及对设计者Aaron Swartz和John Gruber的感谢！                 
-！https://raw.githubusercontent.com/younghz/Markdown/master/resource/Aaron_Swartz.jpg
+![Aaron Swartz]（https://raw.githubusercontent.com/younghz/Markdown/master/resource/Aaron_Swartz.jpg）
