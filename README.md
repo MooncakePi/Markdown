@@ -132,4 +132,4 @@ _行内式_：          
 # 写在最后
 ## 花了一晚上的时间学习了Markdown 的基本格式，感谢[younghz的Markdown库](https:://github.com/younghz/Markdown "Markdown")，通过参照上面的讲解以及edit file一点点摸头了并且用这种方式写了一个Markdown基本语法，还有很多不足，继续改进吧，最后还是要感谢younghz的分享。   
 ## 以及对设计者Aaron Swartz和John Gruber的感谢！                 
-(!https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg) ）
+!(https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg) 
