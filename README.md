@@ -1,9 +1,6 @@
 # Markdown
 Learn to use markdown
-
-  Two ways for title: 
-
-  The first one
+Two ways for title: 
 ==============
 
 using "===="and "-----"
