@@ -1,5 +1,5 @@
 # Markdown
-     Learn to use markdown
+Learn to use markdown
 
   Two ways for title: 
 
