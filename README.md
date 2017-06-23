@@ -1,5 +1,5 @@
 # Markdown
-   earn to use markdown：
+   learn to use markdown：
 
 **Title**
 
